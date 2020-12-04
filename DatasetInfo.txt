@@ -1,0 +1,7 @@
+El dataset de este proyecto es de libre ditribución y se encuentra almacenado en https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+por el usuario Larxel, el cual da reconocimientos a Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with
+heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020)
+
+The dataset of this proyect is freely distributed and is stored at https://www.kaggle.com/andrewmvd/heart-failure-clinical-data by user
+Larxel, who acknowledge to Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from
+serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020)
