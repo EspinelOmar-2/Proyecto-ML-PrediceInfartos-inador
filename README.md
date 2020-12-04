@@ -80,3 +80,8 @@ Métricas de despeño para Redes Neuronales Artificiales
 matthews_corrcoef 0.44593073584991844
 
 Accuracy 0.7466666666666667
+
+Gracias por leer !!
+
+
+![alt text](https://images.pexels.com/photos/4588071/pexels-photo-4588071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
