@@ -6,6 +6,7 @@
 
 
 The purpose of this project is the evaluation of different classifiers by supplying a series of medical data, which refer to a possible heart failure, the classifier in question must indicate from the characteristics provided, if the person can die due to a heart attack. To check the effectiveness of the models, different performance metrics will be used, which are *Accuracy*, Matthews Coefficient and the ROC curve. The classification methods to be evaluated are: Logistic Regression, KNN, SVM and Artificial Neural Networks.
+
 Result of the best classifier obtained SVM RBF
 ![alt text](https://64.media.tumblr.com/70b3828a28a765f1555391cd09845f7d/84e9a4f34a4488a5-9e/s500x750/70ff8ed20a1282ca72b409747bfef3b0673074d0.png)
 Some Results:
