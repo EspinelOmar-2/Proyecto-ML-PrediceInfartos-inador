@@ -5,6 +5,7 @@
 The purpose of this project is the evaluation of different classifiers by supplying a series of medical data, which refer to a possible heart failure, the classifier in question must indicate from the characteristics provided, if the person can die due to a heart attack. To check the effectiveness of the models, different performance metrics will be used, which are *Accuracy*, Matthews Coefficient and the ROC curve. The classification methods to be evaluated are: Logistic Regression, KNN, SVM and Artificial Neural Networks.
 
 Some Results:
+
 Performance metrics for Logistic Regression
 matthews_corrcoef 0.4909206851568567
 Accuracy 0.7733333333333333
