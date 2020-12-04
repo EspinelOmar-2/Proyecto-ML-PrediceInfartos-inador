@@ -1,6 +1,9 @@
 # **MLMMCD (Machine Learning Model for Mortality from Cardiac Disease), Prediceinfartos-inador**
 ### Omar Steck Espinel Santamaria: espinelo@javeriana.edu.co
 ### Daniel Santiago Rincón Poveda: daniel_rincon@javeriana.edu.co
+![alt text](https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/5ced05c05cafe8008e3fd417/6-conejito-marron-con-un-pollito-principal.jpg)
+
+
 
 The purpose of this project is the evaluation of different classifiers by supplying a series of medical data, which refer to a possible heart failure, the classifier in question must indicate from the characteristics provided, if the person can die due to a heart attack. To check the effectiveness of the models, different performance metrics will be used, which are *Accuracy*, Matthews Coefficient and the ROC curve. The classification methods to be evaluated are: Logistic Regression, KNN, SVM and Artificial Neural Networks.
 
