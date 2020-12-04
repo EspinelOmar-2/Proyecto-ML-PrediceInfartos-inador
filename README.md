@@ -85,3 +85,5 @@ Gracias por leer !!
 
 
 ![alt text](https://images.pexels.com/photos/4588071/pexels-photo-4588071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
+Las imagenes incluidas en este MarkDown son todas tomadas de: https://www.pexels.com/es-es/
